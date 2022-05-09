@@ -1,0 +1,7 @@
+.modal-container{
+    background-color: red;
+    opacity: 0;
+}
+.modal-container.show{
+    opacity: 100%;
+}
